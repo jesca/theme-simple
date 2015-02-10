@@ -1260,7 +1260,7 @@ object {
   width: 100%;
   padding: 30px 0 10px;
   text-align: center;
-  background-color: #252525;
+  background-color: #ffffff;
 }
 .site-header:after {
   visibility: hidden;
@@ -1284,6 +1284,7 @@ object {
 .site-header h1 {
   padding: 0 0 15px;
   margin: 0;
+  color:#000;
   text-transform: uppercase;
 }
 .site-header h2 {
