@@ -1067,7 +1067,7 @@ h1 {
   font-size: 2.25rem;
 }
 h2 {
-  
+
   font-size: 24px;
   font-size: 1.5rem;
 }
@@ -1384,7 +1384,7 @@ object {
 }
 .post-header,
 .post-content {
-  padding: 45px;
+  padding: 20px;
   padding: 2.8125rem;
 }
 .post-header:after,
