@@ -1732,6 +1732,7 @@ object {
   .site-header {
     padding: 15px 0 0;
     text-align: center;
+    margin-bottom:30px;
   }
   .site-header h1 {
     font-size: 26px;
