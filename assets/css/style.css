@@ -1029,8 +1029,7 @@ h5,
 h6 {
   margin: 8px 0;
   color: #363636;
-  font-family: 'Archivo Narrow', "HelveticaNeue-Light", 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  line-height: 1.4;
+  font-family: 'Archivo Narrow', "HelveticaNeue-Light", 'Helvetica Neue Light', 'Helvetica Neue';
   font-weight: 100;
 }
 h1.title,
@@ -1090,6 +1089,7 @@ p {
   margin: 0;
   margin-bottom: 15px;
   margin-bottom: 0.9375rem;
+  font-family: 'Archivo Narrow';
 }
 p img {
   margin: 0;
