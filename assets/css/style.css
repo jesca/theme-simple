@@ -1261,8 +1261,9 @@ object {
 .site-header {
   width: 100%;
   padding: 30px 0 10px;
+  margin-bottom:50px
   text-align: center;
-  background-color: #252525;
+  background-color: #12729b;
 }
 .site-header:after {
   visibility: hidden;
