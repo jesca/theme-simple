@@ -1384,7 +1384,7 @@ object {
 }
 .post-header,
 .post-content {
-  padding: 1.8125rem;
+  padding: 1rem;
 }
 .post-header:after,
 .post-content:after {
