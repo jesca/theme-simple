@@ -1822,6 +1822,7 @@ object {
   .post-title {
     font-size: 32px;
     font-size: 2rem;
+    color: #498078 ;
   }
   /* Page */
   .blog-page {
