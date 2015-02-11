@@ -1279,11 +1279,11 @@ object {
   clear: both;
 }
 .site-header a {
-  color: #000000;
-  font-size:40px;
+  color: #7a6392;
+  font-size:80px;
 }
 .site-header a:hover {
-  color: #0a547e;
+  color: #287698;
 }
 .site-header h1 {
   padding: 0 0 15px;
@@ -1328,10 +1328,9 @@ object {
 .site-header .site-bio {
   text-align: center;
   width: 320px;
-  width: 20rem;
+  width: 30rem;
   margin: 0 auto;
   color: #898989;
-  padding: 0 0 10px;
 }
 .site-header .site-bio a {
   border-bottom: 1px dotted #e1e1e1;
