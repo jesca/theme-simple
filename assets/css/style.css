@@ -1561,9 +1561,6 @@ object {
   display: table;
   clear: both;
 }
-.post-title a {
-  color: inherit;
-}
 .post-metadata {
   font-size: 12px;
   font-size: 0.75rem;
