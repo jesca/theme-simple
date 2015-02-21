@@ -1386,7 +1386,8 @@ object {
 .post-header,
 .post-content {
   padding: 1rem;
-}
+  font-family: 'Open Sans', sans-serif;
+  }
 .post-header:after,
 .post-content:after {
   visibility: hidden;
