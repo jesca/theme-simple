@@ -1387,7 +1387,6 @@ object {
 .post-header,
 .post-content {
   padding: 1rem;
-  font-family: 'Open Sans', sans-serif;
   }
 .post-header:after,
 .post-content:after {
@@ -1542,6 +1541,8 @@ object {
 }
 .post-body {
   background-color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+
 }
 .post-title a{
   font-size: 40px;
